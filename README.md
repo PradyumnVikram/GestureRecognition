@@ -1,4 +1,4 @@
-This is the final project for the machine learning spring camp, a gesture recogniser and classifier
+A gesture recogniser and classifier
 
 Static gestures recognised 
 - Thumbs Up
